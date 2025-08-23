@@ -18,13 +18,14 @@ A simple, provider-agnostic web app that helps generate **videos** from **text i
 
 ```bash
 .
-├── api/                # API endpoints
+├── api/                # API endpoint
 ├── app/                # Core application logic
 │   ├── providers/      # External provider integrations
 │   ├── services/       # Business logic and services
-│   ├── static/         # Static files (CSS, JS, images)
+│   ├── static/         # Static files
 │   └── templates/      # HTML templates
 ├── .venv/              # Virtual environment (ignored in git)
+├── .env.example        # Sample API Key configurations
 └── README.md           # Project documentation
 
 ---
