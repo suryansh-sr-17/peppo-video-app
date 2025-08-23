@@ -1,10 +1,10 @@
-# 🎥 Peppo Video App – AI-Powered Video Idea Generator
+# 🎥 Peppo Video App – AI-Powered Text to Video Generator
 
-A simple, provider-agnostic web app that helps generate **video ideas** and **optimize prompts** using AI.  
-- ⚡ **FastAPI** backend + Jinja2 templates frontend (no build step)  
+A simple, provider-agnostic web app that helps generate **videos** from **text ideas** and **optimized prompts** using AI.  
+- ⚡ **FastAPI** backend  
 - ✨ **Creative idea generation** and **prompt optimization**  
 - 🗂️ Clear project structure with providers & services  
-- 🔑 **API key configurable** via `.env` (never hardcoded)  
+- 🔑 **API key configurable** via `.env.example` (for api key configuration reference)  
 - 🌍 Deployable on **Vercel / Render** with environment variables  
 
 ---
