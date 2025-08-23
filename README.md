@@ -1,6 +1,7 @@
 # 🎥 Peppo Video App – AI-Powered Text to Video Generator
 
-A simple, provider-agnostic web app that helps generate **videos** from **text ideas** and **optimized prompts** using AI.  
+24 hour Technical Challenge: A simple, provider-agnostic web app that helps generate **videos** from **text ideas** and **optimized prompts** using AI.  
+
 - ⚡ **FastAPI** backend  
 - ✨ **Creative idea generation** and **prompt optimization**  
 - 🗂️ Clear project structure with providers & services  
