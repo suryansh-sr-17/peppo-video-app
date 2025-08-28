@@ -30,6 +30,17 @@
 ├── .venv/                    # Virtual environment (ignored in git)
 ├── .env.example              # Sample API Key configurations
 └── README.md                 # Project documentation
+```
+
+---
+
+## 🧭 Application Workflow
+
+> **Workflow Diagram**
+>
+> ![Application Workflow](workflow.png)
+>
+> _Figure 1 — High-level Application Workflow
 
 ---
 
@@ -52,3 +63,4 @@ cp .env.example .env   # then add your keys inside
 
 # 5. Start the app
 uvicorn app.main:app --reload
+```
