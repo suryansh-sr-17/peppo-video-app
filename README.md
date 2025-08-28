@@ -39,8 +39,6 @@
 > **Workflow Diagram**
 >
 > ![Application Workflow](workflow.png)
->
-> _Figure 1 — High-level Application Workflow
 
 ---
 
